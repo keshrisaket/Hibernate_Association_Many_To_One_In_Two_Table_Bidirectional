@@ -9,11 +9,11 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
     </properties>
-    <name>Hibernate_Association_One_To_Many_In_Two_Table_Unidirectional Maven Webapp</name>
+    <name>Hibernate_Association_One_To_Many_In_Two_Table_Bidirectional Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <build>
-        <finalName>Hibernate_Association_One_To_Many_In_Two_Table_Unidirectional</finalName>
+        <finalName>Hibernate_Association_One_To_Many_In_Two_Table_Bidirectional</finalName>
     </build>
 
 
